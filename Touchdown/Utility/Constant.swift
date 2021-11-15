@@ -4,7 +4,6 @@
 //
 //  Created by ProSmart on 5.11.21..
 //
-
 import SwiftUI
 
 // DATA

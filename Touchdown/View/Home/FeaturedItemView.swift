@@ -27,6 +27,6 @@ struct FeaturedItemView_Previews: PreviewProvider {
         FeaturedItemView(player: players[0])
             .previewLayout(.sizeThatFits)
             .padding()
-            .background(colorBackground)
+            .background(colorBackground)   
     }
 }
